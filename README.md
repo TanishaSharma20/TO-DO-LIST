@@ -23,7 +23,7 @@ A simple and interactive to-do list application built with HTML, CSS, and JavaSc
     bash
     git clone [https://github.com/TanishaSharma20/TO-DO-LIST.git](https://github.com/TanishaSharma20/TO-DO-LIST.git/codes)
     
-2.  *Open the file:* Open the index.html file in your web browser. That's it!
+2.  *Open the file:* Open the codes folder and navigate to index.html file in your web browser. That's it!
 
 ### What I Learned
 
